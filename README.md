@@ -23,3 +23,11 @@ For instance, I converted the scale of humidity from 1 to 100 to a more intuitiv
 ![image](https://github.com/prayagpadwal/London-in-Data-Biking-Trails-and-Weather-Tales/assets/65147413/c754a57b-fcc2-4c3a-90ca-f9750eb724be)
 
 After refining the data for better readability, you can import it into visualization tools like Excel, Tableau, or Power BI. For this project, I chose Tableau for its robust data visualization capabilities. Feel free to experiment with more EDA as per your requirements and experience.
+
+## Data Visualization in Tableau 
+
+For the visualization aspect, I delved into creating new calculated fields, parameters, and bins to enhance the dashboard's analytical depth. Crafting this dashboard was intricate, requiring meticulous attention to detail and a thorough understanding of data relationships. The use of **calculated fields** allowed for the derivation of new insights from existing data, while **parameters** provided interactive controls for end-users, enabling them to explore data variations dynamically. **Bins** were instrumental in segmenting data, making it easier to discern **patterns and trends**. This combination of techniques resulted in a dashboard that stands out for its explicitness and detailed representation of data. It's a testament to the power of effective data visualization in uncovering hidden layers of information and presenting it in an accessible and engaging format.
+
+A key component of this project was the careful selection of the color scheme. The right color palette not only makes the dashboard aesthetically pleasing but also plays a significant role in conveying the data narrative clearly and effectively. 
+
+![Dashboard 1](https://github.com/prayagpadwal/London-in-Data-Biking-Trails-and-Weather-Tales/assets/65147413/e2fab66d-5cec-40c5-86b9-3afdf6a03777)
