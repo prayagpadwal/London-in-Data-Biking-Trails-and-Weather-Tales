@@ -1,10 +1,12 @@
 # London-in-Data-Biking-Trails-and-Weather-Tales
 
-### Snippet:
-**Data Analysis in Jupyter environment** 
+## Snippet:
+### **Data Analysis in Jupyter environment** 
+
 ![image](https://github.com/prayagpadwal/London-in-Data-Biking-Trails-and-Weather-Tales/assets/65147413/599f2d17-7b41-44bb-a070-d2697012268e)
 
-**Data Visualization using Tableau**
+### **Data Visualization using Tableau**
+
 ![Dashboard 1](https://github.com/prayagpadwal/London-in-Data-Biking-Trails-and-Weather-Tales/assets/65147413/e2fab66d-5cec-40c5-86b9-3afdf6a03777)
 
 ## Data extraction, Data pre-processing and Data analysis 
