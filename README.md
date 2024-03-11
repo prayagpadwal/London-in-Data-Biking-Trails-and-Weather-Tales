@@ -1,5 +1,5 @@
 # London-in-Data-Biking-Trails-and-Weather-Tales
-
+(This is an improved and better version I created after the SoCal RUG DataHackathon)
 ## Snippet:
 ### **Data Analysis in Jupyter environment** 
 
